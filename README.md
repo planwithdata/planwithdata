@@ -19,6 +19,7 @@ If you're visiting from [theurbananalytics.com](https://theurbananalytics.com) a
 
 ## Let's Connect!
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: Apart from my professional interests, I'm an advocate for sustainable living and enjoy exploring the great outdoors. I believe that personal well-being and being sustainable go hand in hand.
 
-lastly, thank you for visiting my GitHub profile. Let's collaborate to make a positive impact on our urban spaces!
+Lastly, thank you for visiting my GitHub profile. Let's collaborate to make a positive impact on our urban spaces!
