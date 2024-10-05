@@ -1,6 +1,6 @@
 # Welcome to @planwithdata's GitHub!
 
-👋 Hi there, I'm Rishabh Singh, an Urban Planning Analyst passionate about leveraging data analytics to address complex urban planning challenges. With a foundation in environmental engineering and a Master’s in City and Regional Planning, my career is dedicated to fostering sustainable and resilient urban environments through data-driven research and innovative solutions.
+👋 Hi there, I'm Rishabh Singh, a specialist in Urban Planning and Environmental Data Analysis. I use advanced data analytics, GIS, and machine learning to provide innovative solutions for urban sustainability, climate resilience, and smart city development. My work is dedicated to applying data-driven insights to create more sustainable, resilient urban environments.
 
 ## My Interests
 👀 I specialize in spatial analysis, GIS, Python, R, and various data visualization tools. I am particularly interested in climate resilience, sustainability, and smart city initiatives. I'm constantly exploring the intersections between regional dynamics, data science, and environmental sustainability.
