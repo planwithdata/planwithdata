@@ -1,25 +1,28 @@
-# Welcome to @planwithdata's GitHub!
+# Welcome to my GitHub!
 
-👋 Hi there, I'm Rishabh Singh, a specialist in Urban Planning and Environmental Data Analysis. I use advanced data analytics, GIS, and machine learning to provide innovative solutions for urban sustainability, climate resilience, and smart city development. My work is dedicated to applying data-driven insights to create more sustainable, resilient urban environments.
+👋 Hi there, I'm Rishabh Singh, a Geospatial & Data Engineer specializing in sustainability-focused infrastructure planning. I leverage advanced GIS technologies, machine learning, and data analytics to solve complex urban challenges in mining optimization, transportation planning, environmental analysis, and demographic studies.
 
-## My Interests
-👀 I specialize in spatial analysis, GIS, Python, R, and various data visualization tools. I am particularly interested in climate resilience, sustainability, and smart city initiatives. I'm constantly exploring the intersections between regional dynamics, data science, and environmental sustainability.
+## My Expertise
+🎯 I specialize in **ArcGIS Pro/Enterprise**, **Python**, **R**, **QGIS**, and **IoT integration** for real-time spatial analysis. My work spans from mining workflow optimization and social and environmental vulnerability assessments to web scraping electric vehicle data and conducting market analysis and also using natural language processing for public engagement insights in government project docs in the US.
 
-## My Learning Journey
-🌱 I am currently diving deeper into the realms of urban analytics for the just cause of making cities better using environmental planning, social planning as well as transportation planning. On this path, I am currently learning and practicing the cutting edge techniques and fundamentals of deep learning and AI, creating projects that harness data science to pioneer new solutions in city planning. My goal is to contribute to creating more livable and sustainable cities through actionable, data-driven change.
+## Current Focus Areas
+🌱 I'm currently advancing the application of IOT devices in simple web maps and advanced web mapping applications that use GIS features to understand and display better data and hence create better dashboards too. My projects demonstrate the power of combining geospatial analysis with modern data science to create actionable solutions for industry and government.
 
-## Collaboration
-💞️ I'm looking to collaborate on projects that push the boundaries of urban analytics, particularly those focused on climate resilience, sustainable urbanization, and smart city development. If you're passionate about making a difference in how we understand and shape urban spaces, I'd love to connect.
+## Featured Projects
+🚀 **Mining Optimization with GIS** - Real-time truck telematics and 3D visualization
+📊 **Regional Demographics Analysis** - Income disparity mapping across Richmond, VA
+🧠 **NLP Sentiment Analysis** - Public transportation plan feedback analysis
+⚡ **EV Market Intelligence** - Delhi electric vehicle adoption trends and infrastructure mapping
+🌡️ **Heat Sensitivity Index** - Climate vulnerability assessment for urban populations
+
+## Collaboration Opportunities
+💞️ I'm looking to collaborate on projects involving **geospatial data science**, **urban sustainability analytics**, **mining technology optimization**, and **climate adaptation planning**. If you're working on data-driven solutions for infrastructure, environmental planning, or smart city initiatives, let's connect!
 
 ## How to Reach Me
-📫 You can reach me via my LinkedIn profile [here](www.linkedin.com/in/rishabhsingh9512), or drop me an email at rishabhsingh.env@gmail.com. I’m open to discussions, collaborations, or any questions you might have about urban planning and data analytics.
+📫 Connect with me on [LinkedIn](www.linkedin.com/in/rishabhsingh9512) or email me at rishabhsingh.fin@gmail.com. I'm always open to discussing innovative applications of GIS and data science in real-world problem solving.
 
-## For Non-GitHub Users
-If you're visiting from [theurbananalytics.com](https://theurbananalytics.com) and are new to GitHub, don't worry! While GitHub requires an account to contribute to discussions or to follow my work actively, you can still access all my public repositories and view the projects I'm working on. If you find something intriguing and wish to discuss further, feel free to reach out to me directly via my contact details above.
+## About My Work
+⚡ **Fun fact**: My projects have directly supported mining operations efficiency, regional planning decisions, and policy development across multiple states and countries. I believe in making complex spatial data accessible and actionable for decision-makers.
 
-## Let's Connect!
-😄 Pronouns: He/Him
+Let's build data-driven solutions that make a real impact! 🌍
 
-⚡ Fun fact: Apart from my professional interests, I'm an advocate for sustainable living and enjoy exploring the great outdoors. I believe that personal well-being and being sustainable go hand in hand.
-
-Lastly, thank you for visiting my GitHub profile. Let's collaborate to make a positive impact on our urban spaces!
