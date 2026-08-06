@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 
-👋 Hi there, I'm Rishabh Singh, a Geospatial & Data Engineer specializing in sustainability-focused infrastructure planning. I leverage advanced GIS technologies, machine learning, and data analytics to solve complex urban challenges in mining optimization, transportation planning, environmental analysis, and demographic studies.
+👋 Hi there, I'm Rishabh Singh, a Geospatial & Data Engineer specializing in geospatial workflows for infrastructure planning. I leverage advanced GIS technologies, machine learning, and data analytics to solve complex urban challenges in mining optimization, transportation planning, environmental analysis, and demographic studies.
 
 ## My Expertise
 🎯 I specialize in **ArcGIS Pro/Enterprise**, **Python**, **R**, **QGIS**, and **IoT integration** for real-time spatial analysis. My work spans from mining workflow optimization and social and environmental vulnerability assessments to web scraping electric vehicle data and conducting market analysis and also using natural language processing for public engagement insights in government project docs in the US.
