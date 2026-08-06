@@ -3,7 +3,7 @@
 👋 Hi there, I'm Rishabh Singh, a Geospatial & Data Engineer specializing in geospatial workflows for infrastructure planning. I leverage advanced GIS technologies, machine learning, and data analytics to solve complex urban challenges in mining optimization, transportation planning, environmental analysis, and demographic studies.
 
 ## My Expertise
-🎯 I specialize in **ArcGIS Pro/Enterprise**, **Python**, **R**, **QGIS**, and **IoT integration** for real-time spatial analysis. My work spans from mining workflow optimization and social and environmental vulnerability assessments to web scraping electric vehicle data and conducting market analysis and also using natural language processing for public engagement insights in government project docs in the US.
+🎯 I specialize in **Geospatial web apps**, **ArcGIS Pro/Enterprise**, **Python**, **JS**, **R**, **QGIS**, and **IoT integration** for real-time spatial analysis. My work spans from mining workflow optimization and social and environmental vulnerability assessments to web scraping electric vehicle data and conducting market analysis and also using natural language processing for public engagement insights in government project docs in the US.
 
 ## Current Focus Areas
 🌱 I'm currently advancing the application of IOT devices in simple web maps and advanced web mapping applications that use GIS features to understand and display better data and hence create better dashboards too. My projects demonstrate the power of combining geospatial analysis with modern data science to create actionable solutions for industry and government.
